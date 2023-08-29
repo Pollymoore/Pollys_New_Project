@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--dnry-synapse-test",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/f9536617-90ec-4add-b99a-5f782b6a180b/resourceGroups/polly_test_env/providers/Microsoft.Synapse/workspaces/dnry-synapse-test",
+		"groupId": "sql",
+		"fqdns": [
+			"dnry-synapse-test.c11fba94-2475-46eb-93b5-766ee028de3d.sql.azuresynapse.net"
+		]
+	}
+}

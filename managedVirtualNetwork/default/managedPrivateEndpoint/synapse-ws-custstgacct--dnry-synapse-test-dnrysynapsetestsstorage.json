@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--dnry-synapse-test-dnrysynapsetestsstorage",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/f9536617-90ec-4add-b99a-5f782b6a180b/resourceGroups/polly_test_env/providers/Microsoft.Storage/storageAccounts/dnrysynapsetestsstorage",
+		"groupId": "dfs"
+	}
+}
